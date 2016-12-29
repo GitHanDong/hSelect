@@ -10,8 +10,8 @@ jQuery
 ## 用法
 `$('dom').hselect('swicth','css');`
 
-**swicth传入'a'表示修改当前DOM::after的CSS值，传入'b'表示修改当前DOM::before的CSS值。**
-**css传入常规CSS，例如'content:"123123";font-size:12px;'。**
-**支持链式调用**
+-swicth传入'a'表示修改当前DOM::after的CSS值，传入'b'表示修改当前DOM::before的CSS值。
+-css传入常规CSS，例如'content:"123123";font-size:12px;'。
+-支持链式调用
 
 ## 注意：所有传入的值均为String格式！
