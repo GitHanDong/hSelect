@@ -1,5 +1,5 @@
-# hselect
-hselect是一个用来通过jQuery修改伪元素CSS值的小工具。
+# hSelect
+hSelect是一个用来通过jQuery修改伪元素CSS值的小工具。
 
 ## 功能
 常规的jQuery是没有办法选择伪元素进行修改的（比如：'::after','::before'），而有些时候我们为了保证DOM结构的美观，一些元素会利用伪元素来进行实现。当这些元素需要修改CSS样式的时候，jQuery原生不支持选择伪元素就有点力不从心了。本小插件的作用就是能让你修改伪元素的CSS样式。
