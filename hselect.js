@@ -1,6 +1,6 @@
 ;
 (function($, window, document, undefined) {
-    $.fn.hselect = function(aORb, options) {
+    $.fn.hSelect = function(aORb, options) {
         var swicth;
         if (aORb == 'a') {
             swicth = '::after';
